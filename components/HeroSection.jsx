@@ -4,7 +4,7 @@ export default function HeroSection() {
       <div className='max-w-[350px] text-darkblue'>
         <h1 className='text-5xl'>Rise & Shine</h1>
         <p className='text-xl leading-7 py-5'>
-          Coffe cortado, qui beans galão froth to go. Blue mountain et single
+          Coffee cortado, qui beans galão froth to go. Blue mountain et single
           origin aged flavour variety affagato.
         </p>
         <button
